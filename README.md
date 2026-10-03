@@ -3,13 +3,11 @@
 ### 👥 **Team Members**
 ---
 
-**Example:**
-
 | Name                  | GitHub Handle | Contribution                                                             |
 |-----------------------|---------------|---------------------------------------------------------------------|
 | Alina Dang            | @             |                 |
 | Fadhili Mboya         | @             |                 |
-| Gnana Varshita Chakka | @             |                 |
+| Gnana Varshita Chakka | @gc832        |                 |
 | Kritin Ganesh         | @             |                 |
 | Lizeth Fernandez      | @lfern101     |                 |
 | Shiu Wong             | @             |                 |
