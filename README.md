@@ -39,6 +39,18 @@
 * How to access the dataset(s)
 * How to run the notebook or scripts
 
+### Generate the NEISS column inventory
+
+Place `neiss2025.xlsx` in the `data/` folder, then open the repository in VS Code and run these commands in the integrated terminal from the repository root:
+
+```bash
+python3 -m venv .venv
+./.venv/bin/python -m pip install -r requirements.txt
+./.venv/bin/python data/data_cleaning.py
+```
+
+The script prints a profile and saves `data/neiss2025_column_inventory.csv`. See [data/NEISS2025-column-inventory.md](data/NEISS2025-column-inventory.md) for what the profile contains and how to interpret it. The Excel file is not modified.
+
 ---
 
 ## 🏗️ **Project Overview**
