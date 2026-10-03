@@ -151,6 +151,15 @@ This project is licensed under the MIT License.
 
 Cite relevant papers, articles, or resources that supported your project.
 
+- U.S. Consumer Product Safety Commission. **National Electronic Injury Surveillance System (NEISS) Injury Data.**  
+  https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data
+
+- spaCy. **spaCy 101: Everything You Need to Know.**  
+  https://spacy.io/usage/spacy-101
+
+- Natural Language Toolkit (NLTK). **NLTK Documentation.**  
+  https://www.nltk.org/
+
 ---
 
 ## 🙏 **Acknowledgements** (Optional but encouraged)
