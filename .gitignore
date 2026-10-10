@@ -1,1 +1,4 @@
-
+.venv/
+__pycache__/
+data/neiss2025.xlsx
+data/processed/
