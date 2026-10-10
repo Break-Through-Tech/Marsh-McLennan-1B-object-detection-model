@@ -8,7 +8,7 @@
 | Alina Dang            | @             |                 |
 | Fadhili Mboya         | @             |                 |
 | Gnana Varshita Chakka | @gc832        |                 |
-| Kritin Ganesh         | @             |                 |
+| Kritin Ganesh         | @CactusKritin7220             |                 |
 | Lizeth Fernandez      | @lfern101     |                 |
 | Shiu Wong             | @             |                 |
 
