@@ -5,7 +5,6 @@
 
 | Name                  | GitHub Handle | Contribution                                                             |
 |-----------------------|---------------|---------------------------------------------------------------------|
-| Alina Dang            | @             |                 |
 | Fadhili Mboya         | @             |                 |
 | Gnana Varshita Chakka | @gc832        |                 |
 | Kritin Ganesh         | @CactusKritin7220             |                 |
