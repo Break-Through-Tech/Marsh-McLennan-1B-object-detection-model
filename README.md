@@ -5,7 +5,7 @@
 
 | Name                  | GitHub Handle | Contribution                                                             |
 |-----------------------|---------------|---------------------------------------------------------------------|
-| Fadhili Mboya         | @             |                 |
+| Fadhili Mboya         | @fadhili02             |                 |
 | Gnana Varshita Chakka | @gc832        |                 |
 | Kritin Ganesh         | @CactusKritin7220             |                 |
 | Lizeth Fernandez      | @lfern101     |                 |
