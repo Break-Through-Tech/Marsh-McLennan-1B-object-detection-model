@@ -164,4 +164,4 @@ Cite relevant papers, articles, or resources that supported your project.
 
 ## 🙏 **Acknowledgements** (Optional but encouraged)
 
-Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
+Thank you to our Challenge Advisor, Kamraan Kamal (Marsh McLennan), and our AI Studio Coach, Ayush Amberkar.
