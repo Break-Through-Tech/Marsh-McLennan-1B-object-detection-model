@@ -9,7 +9,7 @@
 | Gnana Varshita Chakka | @gc832        |                 |
 | Kritin Ganesh         | @CactusKritin7220             |                 |
 | Lizeth Fernandez      | @lfern101     |                 |
-| Shiu Wong             | @             |                 |
+| Shiu Wong             | @sueywong             |                 |
 
 ---
 
