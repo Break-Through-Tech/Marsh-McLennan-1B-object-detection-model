@@ -1,1 +1,5 @@
-
+.venv/
+__pycache__/
+data/neiss2025.xlsx
+data/processed/
+data/gold/gold_sample_BACKUP_empty.csv
